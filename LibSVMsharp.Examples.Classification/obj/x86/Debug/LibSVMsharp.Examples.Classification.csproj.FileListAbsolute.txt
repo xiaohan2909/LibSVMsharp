@@ -1,0 +1,7 @@
+D:\Projects\C#\LibSVMsharp\LibSVMsharp.Examples.Classification\bin\Debug\LibSVMsharp.Examples.Classification.exe
+D:\Projects\C#\LibSVMsharp\LibSVMsharp.Examples.Classification\bin\Debug\LibSVMsharp.Examples.Classification.pdb
+D:\Projects\C#\LibSVMsharp\LibSVMsharp.Examples.Classification\bin\Debug\LibSVMsharp.dll
+D:\Projects\C#\LibSVMsharp\LibSVMsharp.Examples.Classification\bin\Debug\LibSVMsharp.pdb
+D:\Projects\C#\LibSVMsharp\LibSVMsharp.Examples.Classification\obj\x86\Debug\LibSVMsharp.Examples.Classification.csprojResolveAssemblyReference.cache
+D:\Projects\C#\LibSVMsharp\LibSVMsharp.Examples.Classification\obj\x86\Debug\LibSVMsharp.Examples.Classification.exe
+D:\Projects\C#\LibSVMsharp\LibSVMsharp.Examples.Classification\obj\x86\Debug\LibSVMsharp.Examples.Classification.pdb
