@@ -1,0 +1,6 @@
+D:\Projects\C#\LibSVMsharp\MySqlTools\bin\Debug\MySqlTools.dll
+D:\Projects\C#\LibSVMsharp\MySqlTools\bin\Debug\MySqlTools.pdb
+D:\Projects\C#\LibSVMsharp\MySqlTools\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Projects\C#\LibSVMsharp\MySqlTools\bin\Debug\MySql.Fabric.Plugin.dll
+D:\Projects\C#\LibSVMsharp\MySqlTools\obj\Debug\MySqlTools.dll
+D:\Projects\C#\LibSVMsharp\MySqlTools\obj\Debug\MySqlTools.pdb

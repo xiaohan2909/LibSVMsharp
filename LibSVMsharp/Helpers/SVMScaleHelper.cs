@@ -9,7 +9,11 @@ namespace LibSVMsharp.Helpers
 {
     public static class SVMScaleHelper
     {
-       // private double lower = -1.0, upper = 1.0;
+       /// <summary>
+       /// 读取rangefile生成一个SVMScale类
+       /// </summary>
+       /// <param name="filename"></param>
+       /// <returns></returns>
         public static SVMScale LoadRangeFile(string filename)
         {
             double lower = -1.0, upper = 1.0,y_lower=-1,y_upper=1,y_min=0,y_max=0;

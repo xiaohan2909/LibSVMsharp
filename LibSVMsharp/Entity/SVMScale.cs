@@ -9,9 +9,8 @@ namespace LibSVMsharp
     {
         public double lower = -1.0, upper = 1.0,y_lower,y_upper,y_min,y_max;
         private bool yIsScale = false;
-        public Dictionary<int,double> featureMin{get;set;}
-        public Dictionary<int, double> featureMax{get;set;}
-        
+        private Dictionary<int, double> featureMin;
+        private Dictionary<int, double> featureMax;
         public SVMScale(Dictionary<int, double> featureMin, Dictionary<int, double> featureMax, bool yIsScale)
         {
             this.featureMin = featureMin;
