@@ -2,3 +2,4 @@ D:\Projects\C#\LibSVMsharp\LibSVMsharp\bin\Debug\LibSVMsharp.pdb
 D:\Projects\C#\LibSVMsharp\LibSVMsharp\obj\x86\Debug\LibSVMsharp.pdb
 D:\Projects\C#\LibSVMsharp\LibSVMsharp\bin\Debug\LibSVMsharp.dll
 D:\Projects\C#\LibSVMsharp\LibSVMsharp\obj\x86\Debug\LibSVMsharp.dll
+D:\Projects\C#\LibSVMsharp\LibSVMsharp\obj\x86\Debug\LibSVMsharp.csprojResolveAssemblyReference.cache

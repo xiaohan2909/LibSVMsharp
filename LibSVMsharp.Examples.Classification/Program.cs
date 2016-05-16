@@ -42,8 +42,9 @@ namespace LibSVMsharp.Examples.Classification
             ////////////////////////////////Test DataBase//////////////////////////////////////////
             //MySqlConnection mysqlConn = MysqlHelper.Open_Conn(MysqlHelper.ConnStr);
             SVMClassifier svmClassifier = new SVMClassifier(@"Model\train.txt.model", @"Model\train.txt.range");
-            SVMProblem prob= svmClassifier.convertStrToProblem("10 1:2.923466222 2:2.550460114 3:2.552259944 4:4 5:1.000705688 6:1.145442191 7:0.536380201 8:1960.723278 9:1.146250516 10:0.033910685");
-            Console.WriteLine("\n\nPress any key to quit...");
+            int result=svmClassifier.identifyType(new double[] {2.923466222, 2.550460114, 2.552259944, 4, 1.000705688, 1.145442191, 0.536380201, 1960.723278, 1.146250516, 0.033910685 });
+            Console.WriteLine("result:"+result);
+            Console.WriteLine("\nPress any key to quit...");
             Console.ReadKey(false);
 
         }

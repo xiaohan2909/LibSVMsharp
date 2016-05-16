@@ -8,3 +8,4 @@ D:\Projects\C#\LibSVMsharp\LibSVMsharp.Examples.Classification\obj\x86\Debug\Lib
 D:\Projects\C#\LibSVMsharp\LibSVMsharp.Examples.Classification\bin\Debug\MySql.Data.Entity.EF6.dll
 D:\Projects\C#\LibSVMsharp\LibSVMsharp.Examples.Classification\bin\Debug\MySqlTools.dll
 D:\Projects\C#\LibSVMsharp\LibSVMsharp.Examples.Classification\bin\Debug\MySqlTools.pdb
+D:\Projects\C#\LibSVMsharp\LibSVMsharp.Examples.Classification\bin\Debug\LibSVMsharp.Examples.Classification.exe.config
